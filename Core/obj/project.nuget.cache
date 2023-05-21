@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3Alfr9QAPz3AMBtl04yp8jHJHTY6S44Bdcmj3MrKOzagId78TJNEpCMHBBZMBR0SpYXPRx4Iq33t2Y6AOnK/8g==",
+  "dgSpecHash": "N7QRAv8EHYuSPhN2Ou9fCO5gi4A8Y32UmH5B9pn2lLM1YjNBMQ9agZ+f/b0dWQmSUfxMkM/5obS9m+h4iADcqw==",
   "success": true,
-  "projectFilePath": "C:\\Study Repository\\E-commerce App\\Core\\Core.csproj",
+  "projectFilePath": "/home/spklnx/Documents/workspace/E-commerceApp/Core/Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
