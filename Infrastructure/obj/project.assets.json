@@ -1155,32 +1155,34 @@
     ]
   },
   "packageFolders": {
-    "/home/spklnx/.nuget/packages/": {}
+    "C:\\Users\\adair\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/spklnx/Documents/workspace/E-commerceApp/Infrastructure/Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\adair\\OneDrive\\Documents\\Learning\\E-commerceApp\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "/home/spklnx/Documents/workspace/E-commerceApp/Infrastructure/Infrastructure.csproj",
-      "packagesPath": "/home/spklnx/.nuget/packages/",
-      "outputPath": "/home/spklnx/Documents/workspace/E-commerceApp/Infrastructure/obj/",
+      "projectPath": "C:\\Users\\adair\\OneDrive\\Documents\\Learning\\E-commerceApp\\Infrastructure\\Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\adair\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\adair\\OneDrive\\Documents\\Learning\\E-commerceApp\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/spklnx/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\adair\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/spklnx/Documents/workspace/E-commerceApp/Core/Core.csproj": {
-              "projectPath": "/home/spklnx/Documents/workspace/E-commerceApp/Core/Core.csproj"
+            "C:\\Users\\adair\\OneDrive\\Documents\\Learning\\E-commerceApp\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\adair\\OneDrive\\Documents\\Learning\\E-commerceApp\\Core\\Core.csproj"
             }
           }
         }
@@ -1216,7 +1218,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
