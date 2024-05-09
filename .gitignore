@@ -12,6 +12,7 @@
 bin
 obj
 packages
+wwwroot
 
 #AppSettings
 appsettings.json
